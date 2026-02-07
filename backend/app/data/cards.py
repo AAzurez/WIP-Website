@@ -4,7 +4,7 @@ FAKE_CARDS = [
     {
         "id": "base1-001",
         "name": "A",
-        "set": "Base Set",
+        "set": "Base-Set",
         "rarity": "Holo Rare",
         "prices": {
             "2024-01-01": 10.0
@@ -13,7 +13,7 @@ FAKE_CARDS = [
     {
         "id": "base1-002",
         "name": "B",
-        "set": "Base Set",
+        "set": "Base-Set",
         "rarity": "Rare",
         "prices": {
             "2024-01-01": 10.0
@@ -22,7 +22,7 @@ FAKE_CARDS = [
     {
         "id": "base1-003",
         "name": "C",
-        "set": "Base Set",
+        "set": "Base-Set",
         "rarity": "Holo Rare",
         "prices": {
             "2024-01-01": 10.0
